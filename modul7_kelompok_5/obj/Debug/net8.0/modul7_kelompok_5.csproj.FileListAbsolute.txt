@@ -1,0 +1,5 @@
+D:\Praktikum Online\modul7_kelompok_5\modul7_kelompok_5\obj\Debug\net8.0\modul7_kelompok_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praktikum Online\modul7_kelompok_5\modul7_kelompok_5\obj\Debug\net8.0\modul7_kelompok_5.AssemblyInfoInputs.cache
+D:\Praktikum Online\modul7_kelompok_5\modul7_kelompok_5\obj\Debug\net8.0\modul7_kelompok_5.AssemblyInfo.cs
+D:\Praktikum Online\modul7_kelompok_5\modul7_kelompok_5\obj\Debug\net8.0\modul7_kelompok_5.csproj.CoreCompileInputs.cache
+D:\Praktikum Online\modul7_kelompok_5\modul7_kelompok_5\obj\Debug\net8.0\modul7_kelompok_5.sourcelink.json
